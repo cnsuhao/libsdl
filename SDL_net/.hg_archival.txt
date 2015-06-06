@@ -1,0 +1,4 @@
+repo: 25792bef6506dc7d37f5a758761427950e123c60
+node: 82e8eb5642712c91688a1a3e04f4627ff6a4eac6
+branch: default
+tag: release-1.2.8
